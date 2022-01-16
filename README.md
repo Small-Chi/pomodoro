@@ -1,24 +1,2 @@
-# pomodoro
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+前端修練精神時光屋-第一關完成投稿 <br>
+採用設計稿 https://challenge.thef2e.com/user/2983?schedule=2519#works-2519
